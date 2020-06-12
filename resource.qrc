@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/Bg.png</file>
+        <file>image/bullet.png</file>
+        <file>image/Default.png</file>
+        <file>image/enemy.png</file>
+        <file>image/icon_gold.png</file>
+        <file>image/icon_HP.png</file>
+        <file>image/open_spot.png</file>
+        <file>image/tower.png</file>
+        <file>config/Info.plist</file>
+        <file>config/TowersPosition.plist</file>
+        <file>config/Waves.plist</file>
+        <file>image/jujishou.png</file>
+        <file>image/startwin.png</file>
+        <file>image/startwin.jpg</file>
+        <file>image/startbut.png</file>
+        <file>image/enemy.gif</file>
+        <file>image/enemymov.png</file>
+        <file>image/baolei.png</file>
+        <file>image/shibing.png</file>
+        <file>image/zhenchabing.png</file>
+        <file>image/enemy1.png</file>
+        <file>config/TowersPosition1.plist</file>
+    </qresource>
+</RCC>
